@@ -1,0 +1,2 @@
+Location,Datetime,Temp_C,Pressure,O2_per_sat,DO_mg_L,SpC,pH,Cl,Depth_to_water,Discharge,CO2,Sat_ratio
+nowhere,2023-05-12 15:18:00,16,,68,6.5,289,7.8,0.2,,,,
