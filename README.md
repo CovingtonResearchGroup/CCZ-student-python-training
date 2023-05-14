@@ -16,7 +16,7 @@ training in data analysis and Python coding on the second day.
 - example-datasheets - Datasheets formatted as required for group input of field data
 - figs - Folder for figures
 - group-datasheets - Folder to use for saving group data sheets after data entry
-- 2023_RCN_CCZ_Pre_Workshop_Training_Field_Guide - guide for use during field work of first day of training
+- RCN_Uark_23_Training_Field_Guide - guide for use during field work of first day of training
 
 
 ## Acknowledgments
