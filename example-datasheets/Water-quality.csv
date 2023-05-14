@@ -1,2 +1,15 @@
-Location,Datetime,Temp_C,Pressure,O2_per_sat,DO_mg_L,SpC,pH,Cl,Depth_to_water,Discharge,CO2,Sat_ratio
-nowhere,2023-05-12 15:18:00,16,,68,6.5,289,7.8,0.2,,,,
+Location,Datetime,Sitetype,Temp_C,Pressure,O2_per_sat,DO_mg_L,SpC,pH,Cl,Depth_to_water,Discharge,CO2,Sat_ratio
+nowhere,2023-05-12 15:18:00,spring,16,,68,6.5,289,7.8,0.2,,0.5,6542,
+somewhere,2023-05-12 15:26:00,epikarst,15,,78,8.7,178,7.4,1,,3,3256,
+bogzahrbtom,2023-05-12 15:32:00,epikarst,18,,89,9.8,235,7.7,0.2,,0.3,4578,
+theotherplace,2023-05-12 15:46:00,stream,12,,78,10.1,330,7.8,0,,1.2,12000,
+frankfurt,2023-05-12 15:46:00,stream,21,,68,6.5,198,7.8,0,,16,6542,
+madrid,2023-05-12 15:46:00,epikarst,18,,78,8.7,240,7.4,0,,0.2,3256,
+ljubljana,2023-05-12 15:46:00,epikarst,18,,89,9.8,234,7.7,0,,0.05,4578,
+rome,2023-05-12 15:46:00,epikarst,17,,78,10.1,222,7.8,2,,0.03,12000,
+vienna,2023-05-12 15:46:00,spring,15,,68,6.5,300,7.8,1.5,,12,6542,
+paris,2023-05-12 15:46:00,spring,15,,78,8.7,280,7.4,1.1,,6,3256,
+amsterdam,2023-05-12 15:46:00,stream,22,,89,9.8,140,7.7,0,,25,4578,
+zagreb,2023-05-12 15:46:00,stream,24,,78,10.1,190,7.8,1.2,,32,12000,
+sarajevo,2023-05-12 15:46:00,stream,18,,56,3.3,170,7.6,0.5,,12,890,
+berlin,2023-05-12 15:46:00,stream,19,,78,6.5,180,7.7,0.1,,17,576,
