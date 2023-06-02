@@ -1,7 +1,8 @@
 # CCZ-student-python-training
 Code for use in basic python training and data analysis for [NSF Carbonate Critical Zone RCN](https://carbonatecriticalzone.research.ufl.edu/) student training workshop. 
-This training was conducted in May of 2023 at the University of Arkansas with fieldwork at the Savoy Experimental Watershed on the first day, and 
-training in data analysis and Python coding on the second day.
+This training was conducted in May of 2023 at the University of Arkansas with fieldwork at the Savoy Experimental Watershed on the first day (see field guide pdf), and training in data analysis and Python coding on the second day.
+[![DOI](https://zenodo.org/badge/632147520.svg)](https://zenodo.org/badge/latestdoi/632147520)
+
 
 ## Contents
 
@@ -20,4 +21,4 @@ training in data analysis and Python coding on the second day.
 
 
 ## Acknowledgments
-This work was supported by the National Science Foundation Grant CZ RCN: Research Coordination Network in Carbonate Critical Zones (1905259). 
+This work was supported by the National Science Foundation Grant CZ RCN: Research Coordination Network in Carbonate Critical Zones (1905259). Materials for the field guide were contributed by Teresa Baraza, Riannon Colton, Matt Covington, Lindsey Aman Cromwell, Michael Jones, and Ethan Oleson. Ethan Oleson conducted the final typesetting of the field guide in Latex. Python tutorials and analysis code were written by Lindsey Aman Cromwell and Matt Covington.
